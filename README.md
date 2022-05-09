@@ -27,7 +27,7 @@ Modeling wine preferences by data mining from physicochemical properties. In Dec
 ### There are 4 mini classification projects based on this dataset. The first performs EDA and then classification with SVC model which reaches nearly 0.8 in accuracy, precison and recall.
 Then we go on and run some explainers like extra tree, shap and scatterplots and interpret the results in relation to which variables are the most important and to which direction.
 
-###The second is classification notebook we run different algorithms and try to fine tune them(Random Forest,logistic regression, bagging classifier, xgboost classifier, SVC ). Of course we scale the data first.
+### The second is classification notebook we run different algorithms and try to fine tune them(Random Forest,logistic regression, bagging classifier, xgboost classifier, SVC ). Of course we scale the data first.
 However, results fail to pass the 0.8 bar in all these algorithms.
 
 ### The third notebook, does something similar but uses the pipeline technique to claculate algorithms and results of course are similar.
